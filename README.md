@@ -1,4 +1,4 @@
-[![MasterHead](https://secondwaveapps.com/assets/images/blogs/user-friendly-blog-bannr.jpg)]
+![MasterHead](https://secondwaveapps.com/assets/images/blogs/user-friendly-blog-bannr.jpg)
 <h1 align="center">Hi 👋, I'm Rayhan Ahmed</h1>
 <h3 align="center">A passionate UI/UX Designer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://www.palo-it.com/hubfs/New%20Web%20Page%20Visuals/UX_UI_FINAL.gif">
