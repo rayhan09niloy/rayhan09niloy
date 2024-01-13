@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **imrayniloy@gmail.com**
 
-- ⚡ Fun fact **I'm always confused between De signing and Development**
+- ⚡ Fun fact **I'm always confused between Designing and Development**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
