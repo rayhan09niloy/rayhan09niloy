@@ -7,7 +7,7 @@
 </p>
 
 <h1>Rayhan Ahmed</h1>
-<p><b>Freelance developer or consultant</b></p>
+<p><b>Product Designer</b></p>
 
 </div>
 
