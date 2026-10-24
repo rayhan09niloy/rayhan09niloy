@@ -5,10 +5,6 @@
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=rayhan09niloy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F103838786%3Fu%3D896d93b18da3a41ab095dfb77662ef303e1fa3d0%26v%3D4" alt="rayhan09niloy hero visual" />
 </p>
-
-<h1>Rayhan Ahmed</h1>
-<p><b>Product Designer</b></p>
-
 </div>
 
 ## The idea behind the work
