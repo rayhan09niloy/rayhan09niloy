@@ -1,5 +1,3 @@
-## Selected work
-
 <div align="center">
 
 <p align="center">
